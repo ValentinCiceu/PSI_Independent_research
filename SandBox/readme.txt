@@ -1,0 +1,1 @@
+This directory contains all the code used for this assignment. Some will work some may not, used primarly for experimenting and learning. This includes jupyter notebook and R scripts .This is not inteded for the submission. 
